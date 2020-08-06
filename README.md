@@ -10,3 +10,6 @@
  - Saving Mikey (available on [iOS](https://apps.apple.com/us/app/saving-mikey/id1128194708) / [Android](https://play.google.com/store/apps/details?id=com.savingmikey))<br>
  > **Website:** https://savingmikey.com
  
+### Recent blogposts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
