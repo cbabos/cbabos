@@ -6,8 +6,8 @@
 > **Website**: https://uplezz.com
 
 *Released Games:* 
- - Cubo (unpublished)
- - Saving Mikey (available on [iOS](https://apps.apple.com/us/app/saving-mikey/id1128194708) / [Android](https://play.google.com/store/apps/details?id=com.savingmikey))<br>
+ - Cubo (unpublished, Unity)
+ - Saving Mikey (React Native, available on [iOS](https://apps.apple.com/us/app/saving-mikey/id1128194708) / [Android](https://play.google.com/store/apps/details?id=com.savingmikey))<br>
  > **Website:** https://savingmikey.com
  
 ### Recent blogposts
