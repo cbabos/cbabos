@@ -12,9 +12,9 @@
  
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Take a deep breath](https://yourweb.hu/2020/08/06/take-a-deep-breath/)
 - [Shaping the ground for the big steps](https://yourweb.hu/2020/07/05/shaping-the-ground-for-the-big-steps/)
 - [Learning to love Development (again)](https://yourweb.hu/2020/07/04/learning-to-love-development-again/)
 - [That facepalm moment](https://yourweb.hu/2015/09/20/that-facepalm-moment/)
 - [Performance issues again](https://yourweb.hu/2015/08/05/performance-issues-again/)
-- [Why and how I replaced my phone with my laptop](https://yourweb.hu/2015/07/08/why-and-how-i-replaced-my-phone-with-my-laptop/)
 <!-- BLOG-POST-LIST:END -->
