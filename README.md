@@ -12,9 +12,9 @@
  
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Connect the dots](https://yourweb.hu/2020/08/14/connect-the-dots/)
 - [Take a deep breath](https://yourweb.hu/2020/08/06/take-a-deep-breath/)
 - [Shaping the ground for the big steps](https://yourweb.hu/2020/07/05/shaping-the-ground-for-the-big-steps/)
 - [Learning to love Development (again)](https://yourweb.hu/2020/07/04/learning-to-love-development-again/)
 - [That facepalm moment](https://yourweb.hu/2015/09/20/that-facepalm-moment/)
-- [Performance issues again](https://yourweb.hu/2015/08/05/performance-issues-again/)
 <!-- BLOG-POST-LIST:END -->
