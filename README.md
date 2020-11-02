@@ -12,9 +12,9 @@
  
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Creating the kit for creating](https://uplezz.com/2020/10/30/creating-the-kit-for-creating/)
 - [Stay on focus](https://yourweb.hu/2020/10/23/stay-on-focus/)
 - [The tree of life](https://uplezz.com/2020/10/23/the-tree-of-life/)
 - [Bob meets his evil red twin](https://uplezz.com/2020/10/18/bob-meets-his-evil-red-twin/)
 - [Let’s walk towards the goal](https://uplezz.com/2020/10/13/lets-walk-towards-the-goal/)
-- [Every start is hard](https://uplezz.com/2020/10/13/every-start-is-hard/)
 <!-- BLOG-POST-LIST:END -->
