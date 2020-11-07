@@ -12,9 +12,9 @@
  
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Looks’n’Fire](https://yourweb.hu/2020/11/07/looksnfire/)
 - [New experiment](https://yourweb.hu/2020/11/07/new-experiment/)
 - [Creating the kit for creating](https://uplezz.com/2020/10/30/creating-the-kit-for-creating/)
 - [Stay on focus](https://yourweb.hu/2020/10/23/stay-on-focus/)
 - [The tree of life](https://uplezz.com/2020/10/23/the-tree-of-life/)
-- [Bob meets his evil red twin](https://uplezz.com/2020/10/18/bob-meets-his-evil-red-twin/)
 <!-- BLOG-POST-LIST:END -->
