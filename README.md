@@ -12,9 +12,9 @@
  
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [First Development LiveStream](https://uplezz.com/2022/02/20/first-development-livestream/)
 - [Using multiple computers with the same Input](https://yourweb.hu/2022/01/02/using-multiple-computers-with-the-same-input/)
 - [Long awaited update](https://yourweb.hu/2021/11/08/long-awaited-update/)
 - [2021. Here we go](https://yourweb.hu/2021/01/09/2021-here-we-go/)
 - [Looks’n’Fire](https://yourweb.hu/2020/11/07/looksnfire/)
-- [New experiment](https://yourweb.hu/2020/11/07/new-experiment/)
 <!-- BLOG-POST-LIST:END -->
