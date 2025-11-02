@@ -7,4 +7,5 @@
 
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [4 days from zero to release](https://yourweb.hu/blog/2025/4-days-from-zero-to-release/)
 <!-- BLOG-POST-LIST:END -->
