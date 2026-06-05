@@ -7,5 +7,6 @@
 
 ### Recent blogposts
 <!-- BLOG-POST-LIST:START -->
+- [The Orchestrator Pattern: Classifying and Routing AI Workflows](https://yourweb.hu/articles/2026/inside-terraformer-orchestrator/)
 - [4 days from zero to release](https://yourweb.hu/articles/2025/4-days-from-zero-to-release/)
 <!-- BLOG-POST-LIST:END -->
